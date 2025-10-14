@@ -27,7 +27,7 @@ public class ExpenseManager {
         return false;
     }
 
-    public ArrayList<Expense> getAllExpense(){
+    public ArrayList<Expense> getAllExpenses(){
         return expenseList;
     }
 
